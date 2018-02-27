@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-color: #123;
+}
+
+#maze {
+  margin: auto;
+}
+
+.visited {
+  background-color: #999 !important;
+}
+
+.revisited {
+  background-color: #243 !important;
+}
+
+.current {
+  background-color: #fac !important;
+}
